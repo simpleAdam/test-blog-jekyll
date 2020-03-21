@@ -1,3 +1,7 @@
+## About
+
+Testing Github pages and possibly Jekyll integration at some point
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/simpleAdam/test-blog-jekyll/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
